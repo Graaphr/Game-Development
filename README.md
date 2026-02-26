@@ -58,7 +58,7 @@ Just open DEAL and plan your life with vibes.
 
 <td width="40%" align="center">
 
-<img src="DEAL!/ver0.0.1/Assets/Thumbnail/DEALITCHTHUMBNAIL.png" width="350">
+<img src="Mask'Kill/ver0.0.1/Thumbnail/MASKKILLITCHTHUMBNAIL.png" width="350">
 
 </td>
 
