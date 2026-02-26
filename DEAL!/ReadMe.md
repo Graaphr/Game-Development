@@ -1,15 +1,21 @@
-<p align="center">
-  <a href="#-about">ABOUT</a> •
-  <a href="#-features">FEATURES</a> •
-  <a href="#-trailer">TRAILER</a> •
-  <a href="#-preview">PREVIEW</a> •
-  <a href="#-controls">CONTROLS</a> •
-  <a href="#-team--ouroboroz-studios">TEAM</a>
-</p>
+<table width="100%">
+<tr>
+<td align="left">
+  <img src="ver0.0.1/Assets/icon.png" width="55">
+</td>
 
-<p>
-  <img src="ver0.0.1/Assets/icon.png" width="55" style="vertical-align: middle;">
-</p>
+<td align="right" style="font-weight:600;">
+
+<a href="#-about">ABOUT</a> &nbsp;•&nbsp;
+<a href="#-features">FEATURES</a> &nbsp;•&nbsp;
+<a href="#-trailer">TRAILER</a> &nbsp;•&nbsp;
+<a href="#-preview">PREVIEW</a> &nbsp;•&nbsp;
+<a href="#-controls">CONTROLS</a> &nbsp;•&nbsp;
+<a href="#-team--ouroboroz-studios">TEAM</a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="ver0.0.1/Assets/Logo/DealLogo.png" width="100%">
