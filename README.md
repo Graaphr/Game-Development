@@ -6,8 +6,6 @@
   <img src="Misc./OUROBOROZSTUDIO.png" width="900">
 </p>
 
-<h1 align="center">🎮 Game Development Portfolio</h1>
-
 <p align="center">
   Indie Projects • Experimental Builds • Playable Prototypes
 </p>
