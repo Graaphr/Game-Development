@@ -127,13 +127,13 @@ Dash, shoot, invoke — survive by instinct and mastery.
 
 ```
 ╔════════════════════════════════════════════╗
-║                CORE TEAM                  ║
+║                CORE TEAM                   ║
 ╠════════════════════════════════════════════╣
-║  Game Designer     │  Vincent Tayanto     ║
-║  3D Artist         │  Terra Faqih S. M.   ║
-║  Programmer        │  Fawwaz Khairiy W.   ║
-║  Animator          │  Rafie Eka           ║
-║  UI / UX Designer  │  Jordi Chandra       ║
+║  Game Designer     │  Vincent Tayanto      ║
+║  3D Artist         │  Terra Faqih S. M.    ║
+║  Programmer        │  Fawwaz Khairiy W.    ║
+║  Animator          │  Rafie Eka            ║
+║  UI / UX Designer  │  Jordi Chandra        ║
 ╚════════════════════════════════════════════╝
 ```
 
@@ -152,5 +152,5 @@ Dash, shoot, invoke — survive by instinct and mastery.
 ---
 
 <p align="center">
-  ⚡ Built with passion by 6 creators ⚡
+  ⚡ Built with passion by 5 creators ⚡
 </p>
