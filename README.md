@@ -1,5 +1,5 @@
 <!-- ============================================ -->
-<!--                STUDIO / DEV PAGE            -->
+<!--                GAME PORTFOLIO               -->
 <!-- ============================================ -->
 
 <p align="center">
@@ -9,7 +9,7 @@
 <h1 align="center">🎮 Game Development Portfolio</h1>
 
 <p align="center">
-  Indie Game Projects • Experimental Builds • Playable Prototypes
+  Indie Projects • Experimental Builds • Playable Prototypes
 </p>
 
 ---
@@ -19,52 +19,55 @@
 ---
 
 ### 🗿 MASKBOUND: Trial of the Cursed Lands
-<img src="images/maskbound_cover.png" width="600">
 
-**Genre:** Tribal FPS Roguelike  
-**Engine:** (Unity / Unreal / Godot)
+<p align="center">
+  <img src="images/maskbound_cover.png" width="700">
+</p>
 
-A fast-paced roguelike FPS where you reclaim sacred Masks scattered across cursed lands by a forgotten god.
+A tribal FPS roguelike where you reclaim sacred Masks scattered across cursed lands by a fallen god.
 
-**Core Highlights**
-- Spirit-infused weapons  
-- Mask-bound abilities  
-- Procedural combat trials  
-- High-risk progression system  
-
-🔗 [Play on itch.io](https://your-itch-link-here)
-
----
-
-### 🚧 Project Name Here
-<img src="images/project2_cover.png" width="600">
-
-**Genre:** (Your Genre Here)
-
-Short description of the game.
-
-🔗 [Play on itch.io](https://your-itch-link-here)
+<p align="center">
+  <a href="https://your-itch-link-here">
+    <img src="https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+  </a>
+  
+  <img src="https://img.shields.io/badge/Status-Available-2ea44f?style=for-the-badge">
+</p>
 
 ---
 
-### 🚧 Project Name Here
-<img src="images/project3_cover.png" width="600">
+### 🎮 PROJECT NAME HERE
 
-**Genre:** (Your Genre Here)
+<p align="center">
+  <img src="images/project2_cover.png" width="700">
+</p>
+
+Short description of the project.
+
+<p align="center">
+  <a href="https://your-itch-link-here">
+    <img src="https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+  </a>
+  
+  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge">
+</p>
+
+---
+
+### 🎮 PROJECT NAME HERE
+
+<p align="center">
+  <img src="images/project3_cover.png" width="700">
+</p>
 
 Short description.
 
-🔗 [Play on itch.io](https://your-itch-link-here)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue?style=for-the-badge">
+</p>
 
 ---
 
-## 👥 About the Developer / Team
+## 👥 About
 
-Short introduction about you or your team.
-
----
-
-## 📌 Status
-
-Active Development  
-More projects coming soon.
+Short introduction about you or your team here.
