@@ -56,17 +56,23 @@ The legacy must be restored.
 
 <p align="center">
 
-📝 **Interactive Note Board**  
-Drag. Drop. Organize.
+🔥 **Spirit-Forged Gunplay**
+Wield ancestral firearms infused with Mask-bound spirits. Every shot carries ritual power.
 
-🎨 **Dynamic Color Shift**  
-Cycle note colors instantly.
+🗿 **Roguelike Trial of the Cursed Lands**
+Procedurally shifting wilds where no two journeys are the same.
 
-⚡ **Quick Edit System**  
-Double-click to modify in real time.
+🎭 **Mask-Bound Abilities**
+Recover lost Masks to unlock ancient combat forms, elemental bursts, and forbidden rites.
 
-🎮 **Game-Like Controls**  
-Mouse-based intuitive interactions.
+👁 **Awakened Guardians**
+Face corrupted beasts and spirit-bound warriors sworn to stop your ascent.
+
+🩸 **Ritual Risk Progression**
+Push deeper to gain greater blessings… but fall, and the spirits reclaim their gifts.
+
+⚡ **Fast, Ferocious FPS Combat**
+Dash, shoot, invoke — survive by instinct and mastery.
 
 </p>
 
@@ -95,21 +101,23 @@ Mouse-based intuitive interactions.
 
 ```
 ┌──────────────────────────────┐
-│        ADD / EDIT PANEL      │
+│        MOVEMENT / TRIAL      │
 ├──────────────────────────────┤
-│  TAB        → Switch field   │
+│  W A S D     → Move          │
+│  SPACE       → Jump          │
+│  SHIFT       → Sprint        │
+│  Q           → Spirit Dash   │
 └──────────────────────────────┘
 ```
 
 ```
 ┌──────────────────────────────┐
-│          NOTE BOARD          │
+│       COMBAT / ARSENAL       │
 ├──────────────────────────────┤
-│  M1         → Create / Drag  │
-│  M1 x2      → Edit Note      │
-│  M2         → Release        │
-│  M2 x2      → Delete         │
-│  M3         → Change Color   │
+│  1 / 2       → Switch Weapon │
+│  M1          → Fire          │
+│  F           → Mask Skill    │
+│  G           → Cycle Mask    │
 └──────────────────────────────┘
 ```
 
@@ -118,12 +126,12 @@ Mouse-based intuitive interactions.
 # <img src="ver0.0.1/UI/1.png" width="50"> TEAM — OUROBOROZ STUDIOS
 
 ```
-[ Rivo Nyawan Situmorang ]  → Leader
-[ Terra Faqih Satria Madjid ]
-[ Rizky Eko Pratama ]
-[ Alya Ghaitsa Salsabila ]
-[ Bella Fadhilla Khairunnisyah Effendi ]
-[ Hasanun Nisa ]
+[ Game Designer ]            [ Vincent Tayanto ] 
+[ 3D Artist ]                [ Terra Faqih Satria Madjid ]
+[ Programmer ]               [ Fawwaz Khairiy Wahid ]
+[ Animator ]                 [ Rafie Eka ]
+[ UI/UX ]                    [ Jordi Chandra ]
+
 ```
 
 ---
