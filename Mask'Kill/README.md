@@ -11,7 +11,7 @@
 <a href="#-trailer">TRAILER</a> &nbsp;•&nbsp;
 <a href="#-preview">PREVIEW</a> &nbsp;•&nbsp;
 <a href="#-controls">CONTROLS</a> &nbsp;•&nbsp;
-<a href="#-team--ouroboroz-studios">TEAM</a>
+<a href="#-our-team">TEAM</a>
 
 </td>
 </tr>
@@ -123,15 +123,18 @@ Dash, shoot, invoke — survive by instinct and mastery.
 
 ---
 
-# <img src="ver0.0.1/UI/1.png" width="50"> TEAM — OUROBOROZ STUDIOS
+# <img src="ver0.0.1/UI/1.png" width="50"> OUR TEAM
 
 ```
-[ Game Designer ]            [ Vincent Tayanto ] 
-[ 3D Artist ]                [ Terra Faqih Satria Madjid ]
-[ Programmer ]               [ Fawwaz Khairiy Wahid ]
-[ Animator ]                 [ Rafie Eka ]
-[ UI/UX ]                    [ Jordi Chandra ]
-
+╔════════════════════════════════════════════╗
+║                CORE TEAM                  ║
+╠════════════════════════════════════════════╣
+║  Game Designer     │  Vincent Tayanto     ║
+║  3D Artist         │  Terra Faqih S. M.   ║
+║  Programmer        │  Fawwaz Khairiy W.   ║
+║  Animator          │  Rafie Eka           ║
+║  UI / UX Designer  │  Jordi Chandra       ║
+╚════════════════════════════════════════════╝
 ```
 
 ---
@@ -139,10 +142,11 @@ Dash, shoot, invoke — survive by instinct and mastery.
 # <img src="ver0.0.1/UI/2.png" width="50"> VISION
 
 ```
-> Productivity
-> Interaction
-> Engagement
-> Fun
+> Reclaim the Lost Masks  
+> Defy the Forsaken God  
+> Survive the Cursed Lands  
+> Master the Spirit Within  
+> Restore the Tribe’s Legacy
 ```
 
 ---
