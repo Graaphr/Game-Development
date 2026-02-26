@@ -29,7 +29,10 @@
 
 <td width="60%">
 
-### <img src="DEAL!/ver0.0.1/Assets/icon.png" width="25"> DEAL!
+<h2>
+  <img src="DEAL!/ver0.0.1/Assets/icon.png" width="25">
+  DEAL!
+</h2>
 
 DEAL is a cute, lightweight desktop productivity app built with Python + Pygame. It turns daily planning into a fun, visual, and stress-free experience — helping you track tasks and habits with no accounts, ads, or internet required.
 
