@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="ver0.0.1/Assets/icon.png" width="40">
-  <span style="font-size: 20px; font-weight: 600;">DEAL!</span>
+  <span style="font-size: 100px; font-weight: 600;">DEAL!</span>
 </div>
 
 <p align="center">
