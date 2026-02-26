@@ -18,7 +18,7 @@
 </table>
 
 <p align="center">
-  <img src="ver0.0.1/Assets/Logo/DealLogo.png" width="100%">
+  <img src="ver0.0.1/Thumbnail/MASKKILLBanner.png" width="100%">
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 
 <p align="center">
   <a href="https://ouroboroz-studios.itch.io/deal">
-    <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-ITCH.IO-ff00ff?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-ITCH.IO-870000?style=for-the-badge"/>
   </a>
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-00ffcc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-51FF00?style=for-the-badge"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@ Mouse-based intuitive interactions.
 # 🎬 TRAILER
 
 <p align="center">
-  <a href="https://your-youtube-link.com">
+  <a href="https://www.youtube.com/watch?v=I3Gs_Lijhn0">
     <img src="https://your-thumbnail-link.com/trailer-thumbnail.png" width="70%">
   </a>
 </p>
