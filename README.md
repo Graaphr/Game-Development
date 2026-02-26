@@ -108,7 +108,7 @@ Game Designer
 
 <br><br>
 
-<a href="https://instagram.com/yourusername">
+<a href="https://www.instagram.com/gra._.aph/">
   <img src="https://img.shields.io/badge/@Gra._.aph-FFFFFF?style=flat&logo=instagram&logoColor=FF0037">
 </a>
 
