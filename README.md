@@ -86,6 +86,47 @@ A tribal FPS roguelike where you reclaim sacred Masks scattered across cursed la
 
 ---
 
-## About
+## About Ouroboroz Studios
 
-Short introduction about you or your team here.
+**Ouroboroz Studios** is an independent game development team driven by creativity, experimentation, and bold ideas.  
+We craft immersive experiences that blend gameplay, atmosphere, and storytelling — from intense roguelike shooters to playful productivity tools.
+
+We believe games should feel alive, expressive, and unforgettable.
+
+---
+
+## Our Team
+
+<table>
+<tr>
+<td align="center">
+<img src="images/pfp1.png" width="120"><br>
+<b>Vincent Tayanto</b><br>
+Game Designer
+</td>
+
+<td align="center">
+<img src="images/pfp2.png" width="120"><br>
+<b>Terra Faqih Satria Madjid</b><br>
+3D Artist
+</td>
+
+<td align="center">
+<img src="images/pfp3.png" width="120"><br>
+<b>Fawwaz Khairiy Wahid</b><br>
+Programmer
+</td>
+
+<td align="center">
+<img src="images/pfp4.png" width="120"><br>
+<b>Rafie Eka</b><br>
+Animator
+</td>
+
+<td align="center">
+<img src="images/pfp5.png" width="120"><br>
+<b>Jordi Chandra</b><br>
+UI / UX Designer
+</td>
+</tr>
+</table>
