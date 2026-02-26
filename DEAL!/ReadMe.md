@@ -1,8 +1,14 @@
+<p align="center">
+  <a href="#-about">ABOUT</a> •
+  <a href="#-features">FEATURES</a> •
+  <a href="#-trailer">TRAILER</a> •
+  <a href="#-preview">PREVIEW</a> •
+  <a href="#-controls">CONTROLS</a> •
+  <a href="#-team--ouroboroz-studios">TEAM</a>
+</p>
+
 <p>
   <img src="ver0.0.1/Assets/icon.png" width="55" style="vertical-align: middle;">
-  <strong style="font-size: 2.5em; vertical-align: middle;">
-    DEAL!
-  </strong>
 </p>
 
 <p align="center">
