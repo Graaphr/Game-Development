@@ -1,68 +1,137 @@
-🎮 DEAL!
+# 🎮 DEAL!
 
-✨ A Gamified Reminder Application
-Turning productivity into a fun and interactive experience.
+<p align="center">
+  <img src="https://your-banner-link.com/banner.png" width="100%">
+</p>
 
-<p align="center"> <a href="https://ouroboroz-studios.itch.io/deal"> <img src="https://img.shields.io/badge/Download-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Version-Latest-blue?style=for-the-badge"/> </p>
-🧩 ─── About DEAL!
+<p align="center">
+  <b>⚡ Gamified Reminder Application ⚡</b><br>
+  <i>Level up your productivity.</i>
+</p>
 
-DEAL! is a gamified reminder application inspired by productivity games like Habitica.
-Instead of using a plain reminder system, DEAL! transforms your daily tasks into an engaging and interactive experience.
+<p align="center">
+  <a href="https://ouroboroz-studios.itch.io/deal">
+    <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-NEON-ff00ff?style=for-the-badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ffcc?style=for-the-badge"/>
+</p>
 
-💡 Stay organized.
-🎮 Stay motivated.
-🚀 Enjoy productivity.
+---
 
-🔗 Play / Download here:
-https://ouroboroz-studios.itch.io/deal
+```diff
++ SYSTEM INITIALIZED
++ PRODUCTIVITY MODE: GAMIFIED
++ USER EXPERIENCE: INTERACTIVE
+```
 
-✨ ─── Features
+---
 
-📝 Interactive note board system
+# 🕹 ABOUT
 
-🎨 Dynamic color-changing notes
+> Productivity shouldn’t feel like a chore.
 
-🖱 Smooth drag-and-drop mechanics
+**DEAL!** transforms your reminder system into an interactive board  
+where tasks feel alive and engaging.
 
-⚡ Quick edit with double-click
+No boring lists.  
+No static reminders.  
+Just dynamic notes and smooth interactions.
 
-🎮 Game-like interaction controls
+---
 
-🎮 ─── Controls
-➕ Add / Edit Panel
-Key	Action
-Tab	Switch between input fields
-🗒 Note Board
-Input	Action
-M1	Create & drag note
-M1 x2	Edit selected note
-M2	Release dragged note
-M2 x2	Delete selected note
-M3	Change note color
-👥 ─── Team Ouroboroz Studios
-<table> <tr> <td align="center"><b>Rivo Nyawan Situmorang</b><br>Leader</td> <td align="center"><b>Terra Faqih Satria Madjid</b></td> <td align="center"><b>Rizky Eko Pratama</b></td> </tr> <tr> <td align="center"><b>Alya Ghaitsa Salsabila</b></td> <td align="center"><b>Bella Fadhilla Khairunnisyah Effendi</b></td> <td align="center"><b>Hasanun Nisa</b></td> </tr> </table>
-🚀 ─── Vision
+# ✨ FEATURES
 
-DEAL! was created with one simple goal:
+<p align="center">
 
-Productivity should never feel boring.
+📝 **Interactive Note Board**  
+Drag. Drop. Organize.
 
-By combining reminder functionality with gamification, we aim to create a tool that makes daily task management enjoyable, interactive, and motivating.
+🎨 **Dynamic Color Shift**  
+Cycle note colors instantly.
 
-Kalau mau level lebih aesthetic lagi, kita bisa tambahin:
+⚡ **Quick Edit System**  
+Double-click to modify in real time.
 
-📸 Screenshot preview section (pakai image banner)
+🎮 **Game-Like Controls**  
+Mouse-based intuitive interactions.
 
-🎨 Custom header banner
+</p>
 
-🏆 Roadmap
+---
 
-📦 Installation steps
+# 🎬 TRAILER
 
-🛠 Tech Stack
+<p align="center">
+  <a href="https://your-youtube-link.com">
+    <img src="https://your-thumbnail-link.com/trailer-thumbnail.png" width="70%">
+  </a>
+</p>
 
-🌙 Dark themed markdown style
+<p align="center">
+  ▶ CLICK TO WATCH THE TRAILER
+</p>
 
-🎮 Animated GIF demo
+---
 
-Mau gaya yang lebih minimalis clean atau gaming neon vibe?
+# 📸 PREVIEW
+
+<p align="center">
+  <img src="https://your-image-link.com/screen1.png" width="45%">
+  <img src="https://your-image-link.com/screen2.png" width="45%">
+</p>
+
+---
+
+# 🎮 CONTROLS
+
+```
+┌──────────────────────────────┐
+│        ADD / EDIT PANEL      │
+├──────────────────────────────┤
+│  TAB        → Switch field   │
+└──────────────────────────────┘
+```
+
+```
+┌──────────────────────────────┐
+│          NOTE BOARD          │
+├──────────────────────────────┤
+│  M1         → Create / Drag  │
+│  M1 x2      → Edit Note      │
+│  M2         → Release        │
+│  M2 x2      → Delete         │
+│  M3         → Change Color   │
+└──────────────────────────────┘
+```
+
+---
+
+# 👾 TEAM — OUROBOROZ STUDIOS
+
+```
+[ Rivo Nyawan Situmorang ]  → Leader
+[ Terra Faqih Satria Madjid ]
+[ Rizky Eko Pratama ]
+[ Alya Ghaitsa Salsabila ]
+[ Bella Fadhilla Khairunnisyah Effendi ]
+[ Hasanun Nisa ]
+```
+
+---
+
+# 🚀 VISION
+
+```
+> Productivity
+> Interaction
+> Engagement
+> Fun
+```
+
+DEAL! exists to make task management something you *want* to use.
+
+---
+
+<p align="center">
+  ⚡ Built with passion by 6 creators ⚡
+</p>
