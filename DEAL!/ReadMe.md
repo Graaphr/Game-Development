@@ -1,4 +1,6 @@
-# 🎮 DEAL!
+<p align="left">
+  <img src="ver0.0.1/Assets/icon.png" width="100%">
+</p>
 
 <p align="center">
   <img src="ver0.0.1/Assets/Logo/DealLogo.png" width="100%">
