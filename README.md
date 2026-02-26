@@ -6,13 +6,15 @@
   <img src="Misc./OUROBOROZSTUDIO.png" width="900">
 </p>
 
+---
+
 <p align="center">
   Indie Projects • Experimental Builds • Playable Prototypes
 </p>
 
 ---
 
-## 🕹 Featured Projects
+## Featured Projects
 
 ---
 
@@ -96,7 +98,10 @@ Fight through cursed territories, recover ancient Masks, and restore your tribe�
 
 <td width="60%">
 
-### <img src="DEAL!/ver0.0.1/Assets/icon.png" width="25"> DEAL!
+<h1>
+  <img src="Mask'Kill/ver0.0.1/Mask'Kill Logo.png" width="25">
+  MASK'KILL
+</h1>
 
 A tribal FPS roguelike where you reclaim sacred Masks scattered across cursed lands by a fallen god.  
 Fight through cursed territories, recover ancient Masks, and restore your tribe’s legacy.
@@ -116,6 +121,6 @@ Fight through cursed territories, recover ancient Masks, and restore your tribe�
 
 ---
 
-## 👥 About
+## About
 
 Short introduction about you or your team here.
