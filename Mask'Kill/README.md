@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="left">
-  <img src="ver0.0.1/icon.png" width="55">
+  <img src="ver0.0.1/Mask'Kill Logo.png" width="55">
 </td>
 
 <td align="right" style="font-weight:600;">
