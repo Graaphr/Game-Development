@@ -40,7 +40,7 @@ Just open DEAL and plan your life with vibes.
 
 <br>
 
-<a href="https://your-itch-link-here">
+<a href="https://ouroboroz-studios.itch.io/deal">
   <img src="https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
 </a>
 
