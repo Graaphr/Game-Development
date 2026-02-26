@@ -95,7 +95,7 @@ We believe games should feel alive, expressive, and unforgettable.
 
 ---
 
-## 👥 Our Team
+## Our Team
 
 <table>
 <tr>
@@ -104,7 +104,7 @@ We believe games should feel alive, expressive, and unforgettable.
 
 <img src="images/pfp1.png" width="120"><br>
 <b>Graaph</b><br>
-Game Designer
+Programmer / 3D Artist
 
 <br><br>
 
@@ -117,8 +117,8 @@ Game Designer
 <td align="center" width="50%">
 
 <img src="images/pfp2.png" width="120"><br>
-<b>Terra Faqih Satria Madjid</b><br>
-3D Artist
+<b>Rahachi</b><br>
+UI/UX / 2D Artist
 
 <br><br>
 
