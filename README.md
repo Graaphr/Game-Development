@@ -18,7 +18,7 @@
 
 ---
 
-### 🗿 MASKBOUND: Trial of the Cursed Lands
+### <img src="ver0.0.1/Assets/icon.png" width="55"> DEAL!
 
 <p align="center">
   <img src="images/maskbound_cover.png" width="700">
