@@ -3,7 +3,7 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="images/banner.png" width="900">
+  <img src="Misc./OUROBOROZSTUDIO.png" width="900">
 </p>
 
 <h1 align="center">ðŸŽ® Game Development Portfolio</h1>
@@ -74,7 +74,7 @@ Fight through cursed territories, recover ancient Masks, and restore your tribeâ
 
 <br>
 
-<a href="https://your-itch-link-here">
+<a href="https://vincenttayanto99.itch.io/killmaskdemo">
   <img src="https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
 </a>
 
