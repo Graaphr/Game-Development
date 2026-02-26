@@ -35,7 +35,7 @@
 
 ---
 
-# 🕹 ABOUT
+# <img src="ver0.0.1/UI/1.png" width="50"> ABOUT
 
 For generations, the Top’Peng Tribe drew their strength from sacred Masks — ancient relics that carried the spirits of elder beings. These Masks were not objects of worship, but a covenant of power passed down through chosen warriors.
 
@@ -52,7 +52,7 @@ The legacy must be restored.
 
 ---
 
-# ✨ FEATURES
+# <img src="ver0.0.1/UI/2.png" width="50"> FEATURES
 
 <p align="center">
 
@@ -72,7 +72,7 @@ Mouse-based intuitive interactions.
 
 ---
 
-# 🎬 TRAILER
+# <img src="ver0.0.1/UI/3.png" width="50"> TRAILER
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=I3Gs_Lijhn0">
@@ -82,7 +82,7 @@ Mouse-based intuitive interactions.
 
 ---
 
-# 📸 PREVIEW
+# <img src="ver0.0.1/UI/4.png" width="50"> PREVIEW
 
 <p align="center">
   <img src="ver0.0.1/Thumbnail/Thumbnail02.jpeg" width="45%" style="margin:12px;">
@@ -91,7 +91,7 @@ Mouse-based intuitive interactions.
 
 ---
 
-# 🎮 CONTROLS
+# <img src="ver0.0.1/UI/5.png" width="50"> CONTROLS
 
 ```
 ┌──────────────────────────────┐
@@ -115,7 +115,7 @@ Mouse-based intuitive interactions.
 
 ---
 
-# 👾 TEAM — OUROBOROZ STUDIOS
+# <img src="ver0.0.1/UI/1.png" width="50"> TEAM — OUROBOROZ STUDIOS
 
 ```
 [ Rivo Nyawan Situmorang ]  → Leader
@@ -128,7 +128,7 @@ Mouse-based intuitive interactions.
 
 ---
 
-# 🚀 VISION
+# <img src="ver0.0.1/UI/2.png" width="50"> VISION
 
 ```
 > Productivity
@@ -136,8 +136,6 @@ Mouse-based intuitive interactions.
 > Engagement
 > Fun
 ```
-
-DEAL! exists to make task management something you *want* to use.
 
 ---
 
