@@ -1,26 +1,155 @@
-Follow Ton'A and his Quest to retrieve the Mask that held the fate of his people.
+<table width="100%">
+<tr>
+<td align="left">
+  <img src="ver0.0.1/Assets/icon.png" width="55">
+</td>
 
-Story
-Main Character
-Ton’A — the eldest child and rightful heir of the Top’Peng Tribe
+<td align="right" style="font-weight:600;">
 
-Antagonist
-Hal’Kil — a god who grew envious of the Top’Peng Tribe’s dependence on the Masks and their refusal to worship him
+<a href="#-about">ABOUT</a> &nbsp;•&nbsp;
+<a href="#-features">FEATURES</a> &nbsp;•&nbsp;
+<a href="#-trailer">TRAILER</a> &nbsp;•&nbsp;
+<a href="#-preview">PREVIEW</a> &nbsp;•&nbsp;
+<a href="#-controls">CONTROLS</a> &nbsp;•&nbsp;
+<a href="#-team--ouroboroz-studios">TEAM</a>
 
-Ton’A was born into the Top’Peng Tribe, a people blessed with the power of ancient beings. These beings lend their strength through sacred artifacts known as Masks, which are worn by chosen warriors.
+</td>
+</tr>
+</table>
 
-As the eldest child, Ton’A was destined to inherit leadership of the tribe.
+<p align="center">
+  <img src="ver0.0.1/Assets/Logo/DealLogo.png" width="100%">
+</p>
 
-On the day of the Ceremony of Bestowment, disaster struck.
+<p align="center">
+  <b>Your tiny desktop buddy for keeping life together ✨</b><br>
+  <i>Level up your productivity.</i>
+</p>
 
-Without warning, Hal’Kil appeared before the tribe and seized all of the ancestral Masks of the Top’Peng. Enraged by this sacrilege, Ton’A’s father commanded his son to reclaim the stolen Masks and restore the tribe’s legacy.
+<p align="center">
+  <a href="https://ouroboroz-studios.itch.io/deal">
+    <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-NEON-ff00ff?style=for-the-badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ffcc?style=for-the-badge"/>
+</p>
 
-Hal’Kil, seeking to force the Top’Peng Tribe into worship and submission, scattered the Masks across cursed lands, hiding them where few would dare to tread.
+---
 
-Before Ton’A departed, the village shaman delivered a grave warning:
-Hal’Kil had not only hidden the Masks within these cursed places, but had also awakened the entities that dwelled there, commanding them to prevent Ton’A from ever reaching his goal.
+```diff
++ SYSTEM INITIALIZED
++ PRODUCTIVITY MODE: GAMIFIED
++ USER EXPERIENCE: INTERACTIVE
+```
 
-This is a Game made for Global Game Jam 2026 where we have to make a game with a theme of "Mask" in under 48 hours or 2 days. A little bit crazy on the inside ngl.
+---
 
-Check it out on Itch.io
-https://vincenttayanto99.itch.io/killmaskdemo
+# 🕹 ABOUT
+
+**DEAL** is a cute, lightweight desktop productivity app built with **Python + Pygame** that turns your daily planning into a fun, visual, and stress-free experience. It helps you remember what you need to do, track your habits, and organize your days — all without accounts, ads, or internet nonsense.
+
+Just open DEAL and start planning your life like a pro… but with vibes.
+
+---
+
+# ✨ FEATURES
+
+<p align="center">
+
+📝 **Interactive Note Board**  
+Drag. Drop. Organize.
+
+🎨 **Dynamic Color Shift**  
+Cycle note colors instantly.
+
+⚡ **Quick Edit System**  
+Double-click to modify in real time.
+
+🎮 **Game-Like Controls**  
+Mouse-based intuitive interactions.
+
+</p>
+
+---
+
+# 🎬 TRAILER
+
+<p align="center">
+  <a href="https://your-youtube-link.com">
+    <img src="https://your-thumbnail-link.com/trailer-thumbnail.png" width="70%">
+  </a>
+</p>
+
+<p align="center">
+  ▶ CLICK TO WATCH THE TRAILER
+</p>
+
+---
+
+# 📸 PREVIEW
+
+<p align="center">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail01.png" width="70%" style="margin:12px;">
+</p>
+
+<p align="center">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail02.png" width="17%" style="margin:8px;">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail03.png" width="17%" style="margin:8px;">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail04.png" width="17%" style="margin:8px;">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail05.png" width="17%" style="margin:8px;">
+</p>
+
+---
+
+# 🎮 CONTROLS
+
+```
+┌──────────────────────────────┐
+│        ADD / EDIT PANEL      │
+├──────────────────────────────┤
+│  TAB        → Switch field   │
+└──────────────────────────────┘
+```
+
+```
+┌──────────────────────────────┐
+│          NOTE BOARD          │
+├──────────────────────────────┤
+│  M1         → Create / Drag  │
+│  M1 x2      → Edit Note      │
+│  M2         → Release        │
+│  M2 x2      → Delete         │
+│  M3         → Change Color   │
+└──────────────────────────────┘
+```
+
+---
+
+# 👾 TEAM — OUROBOROZ STUDIOS
+
+```
+[ Rivo Nyawan Situmorang ]  → Leader
+[ Terra Faqih Satria Madjid ]
+[ Rizky Eko Pratama ]
+[ Alya Ghaitsa Salsabila ]
+[ Bella Fadhilla Khairunnisyah Effendi ]
+[ Hasanun Nisa ]
+```
+
+---
+
+# 🚀 VISION
+
+```
+> Productivity
+> Interaction
+> Engagement
+> Fun
+```
+
+DEAL! exists to make task management something you *want* to use.
+
+---
+
+<p align="center">
+  ⚡ Built with passion by 6 creators ⚡
+</p>
