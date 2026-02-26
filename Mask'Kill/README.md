@@ -22,32 +22,33 @@
 </p>
 
 <p align="center">
-  <b>Your tiny desktop buddy for keeping life together ✨</b><br>
-  <i>Level up your productivity.</i>
+  <b>Follow Ton'A and his Quest to retrieve the Mask that held the fate of his people.</b><br>
+  <i>Kill to Gain, Gain to Kill</i>
 </p>
 
 <p align="center">
   <a href="https://ouroboroz-studios.itch.io/deal">
-    <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-NEON-ff00ff?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-ITCH.IO-ff00ff?style=for-the-badge"/>
   </a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ffcc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-00ffcc?style=for-the-badge"/>
 </p>
-
----
-
-```diff
-+ SYSTEM INITIALIZED
-+ PRODUCTIVITY MODE: GAMIFIED
-+ USER EXPERIENCE: INTERACTIVE
-```
 
 ---
 
 # 🕹 ABOUT
 
-**DEAL** is a cute, lightweight desktop productivity app built with **Python + Pygame** that turns your daily planning into a fun, visual, and stress-free experience. It helps you remember what you need to do, track your habits, and organize your days — all without accounts, ads, or internet nonsense.
+For generations, the Top’Peng Tribe drew their strength from sacred Masks — ancient relics that carried the spirits of elder beings. These Masks were not objects of worship, but a covenant of power passed down through chosen warriors.
 
-Just open DEAL and start planning your life like a pro… but with vibes.
+Ton’A, eldest child of the chieftain, was destined to inherit this legacy during the Ceremony of Bestowment.
+
+But on that night, the sky tore open.
+
+A forgotten god, enraged by the tribe’s refusal to worship him, descended upon the village and stole every ancestral Mask. To break the tribe’s pride, he scattered them across cursed lands and awakened the dark entities that dwell there, commanding them to guard the stolen relics.
+
+With his father’s final command echoing in his heart, Ton’A sets out into the forsaken wilds — unblessed, untested, but unbroken.
+
+The Masks must be reclaimed.
+The legacy must be restored.
 
 ---
 
