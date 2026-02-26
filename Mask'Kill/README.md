@@ -80,10 +80,6 @@ Mouse-based intuitive interactions.
   </a>
 </p>
 
-<p align="center">
-  ▶ CLICK TO WATCH THE TRAILER
-</p>
-
 ---
 
 # 📸 PREVIEW
