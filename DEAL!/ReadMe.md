@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <b>⚡ Gamified Reminder Application ⚡</b><br>
+  <b>Your tiny desktop buddy for keeping life together ✨</b><br>
   <i>Level up your productivity.</i>
 </p>
 
@@ -45,14 +45,10 @@
 
 # 🕹 ABOUT
 
-> Productivity shouldn’t feel like a chore.
+> DEAL is a cute, lightweight desktop productivity app built with Python + Pygame that turns your daily planning into a fun, visual, and stress-free experience.
+It helps you remember what you need to do, track your habits, and organize your days — all without accounts, ads, or internet nonsense.
 
-**DEAL!** transforms your reminder system into an interactive board  
-where tasks feel alive and engaging.
-
-No boring lists.  
-No static reminders.  
-Just dynamic notes and smooth interactions.
+Just open DEAL and start planning your life like a pro… but with vibes.
 
 ---
 
