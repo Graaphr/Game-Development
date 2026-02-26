@@ -31,8 +31,9 @@
 
 ### <img src="DEAL!/ver0.0.1/Assets/icon.png" width="25"> DEAL!
 
-A tribal FPS roguelike where you reclaim sacred Masks scattered across cursed lands by a fallen god.  
-Fight through cursed territories, recover ancient Masks, and restore your tribe’s legacy.
+DEAL is a cute, lightweight desktop productivity app built with Python + Pygame. It turns daily planning into a fun, visual, and stress-free experience — helping you track tasks and habits with no accounts, ads, or internet required.
+
+Just open DEAL and plan your life with vibes.
 
 <br>
 
