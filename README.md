@@ -95,38 +95,38 @@ We believe games should feel alive, expressive, and unforgettable.
 
 ---
 
-## Our Team
+## 👥 Our Team
 
 <table>
 <tr>
-<td align="center">
+
+<td align="center" width="50%">
+
 <img src="images/pfp1.png" width="120"><br>
-<b>Vincent Tayanto</b><br>
+<b>Graaph</b><br>
 Game Designer
+
+<br><br>
+
+<a href="https://instagram.com/yourusername">
+  <img src="https://img.shields.io/badge/@Gra._.aph-FFFFFF?style=flat&logo=instagram&logoColor=FF0037">
+</a>
+
 </td>
 
-<td align="center">
+<td align="center" width="50%">
+
 <img src="images/pfp2.png" width="120"><br>
 <b>Terra Faqih Satria Madjid</b><br>
 3D Artist
+
+<br><br>
+
+<a href="https://instagram.com/yourusername">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
+</a>
+
 </td>
 
-<td align="center">
-<img src="images/pfp3.png" width="120"><br>
-<b>Fawwaz Khairiy Wahid</b><br>
-Programmer
-</td>
-
-<td align="center">
-<img src="images/pfp4.png" width="120"><br>
-<b>Rafie Eka</b><br>
-Animator
-</td>
-
-<td align="center">
-<img src="images/pfp5.png" width="120"><br>
-<b>Jordi Chandra</b><br>
-UI / UX Designer
-</td>
 </tr>
 </table>
