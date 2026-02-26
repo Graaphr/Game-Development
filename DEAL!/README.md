@@ -27,9 +27,9 @@
 
 <p align="center">
   <a href="https://ouroboroz-studios.itch.io/deal">
-    <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-ITCH.IO-ff00ff?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-ITCH.IO-#18004D?style=for-the-badge"/>
   </a>
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-00ffcc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-51FF00?style=for-the-badge"/>
 </p>
 
 ---
