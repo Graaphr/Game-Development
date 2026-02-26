@@ -1,7 +1,9 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="ver0.0.1/Assets/icon.png" width="40">
-  <span style="font-size: 100px; font-weight: 600;">DEAL!</span>
-</div>
+<p>
+  <img src="ver0.0.1/Assets/icon.png" width="55" style="vertical-align: middle;">
+  <strong style="font-size: 2.5em; vertical-align: middle;">
+    DEAL!
+  </strong>
+</p>
 
 <p align="center">
   <img src="ver0.0.1/Assets/Logo/DealLogo.png" width="100%">
