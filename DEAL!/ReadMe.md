@@ -45,7 +45,7 @@
 
 # 🕹 ABOUT
 
-DEAL is a cute, lightweight desktop productivity app built with Python + Pygame that turns your daily planning into a fun, visual, and stress-free experience. It helps you remember what you need to do, track your habits, and organize your days — all without accounts, ads, or internet nonsense.
+**DEAL** is a cute, lightweight desktop productivity app built with **Python + Pygame** that turns your daily planning into a fun, visual, and stress-free experience. It helps you remember what you need to do, track your habits, and organize your days — all without accounts, ads, or internet nonsense.
 
 Just open DEAL and start planning your life like a pro… but with vibes.
 
