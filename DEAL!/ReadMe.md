@@ -1,7 +1,7 @@
 # 🎮 DEAL!
 
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" width="100%">
+  <img src="ver0.0.1/Assets/Logo/DealLogo.png" width="100%">
 </p>
 
 <p align="center">
