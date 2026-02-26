@@ -69,8 +69,7 @@ Just open DEAL and plan your life with vibes.
   MASK'KILL
 </h1>
 
-A tribal FPS roguelike where you reclaim sacred Masks scattered across cursed lands by a fallen god.  
-Fight through cursed territories, recover ancient Masks, and restore your tribe’s legacy.
+A tribal FPS roguelike where you reclaim sacred Masks scattered across cursed lands by a fallen god. Fight through cursed territories, recover ancient Masks, and restore your tribe’s legacy.
 
 <br>
 
