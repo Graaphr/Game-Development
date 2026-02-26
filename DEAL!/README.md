@@ -8,7 +8,6 @@
 
 <a href="#-about">ABOUT</a> &nbsp;•&nbsp;
 <a href="#-features">FEATURES</a> &nbsp;•&nbsp;
-<a href="#-trailer">TRAILER</a> &nbsp;•&nbsp;
 <a href="#-preview">PREVIEW</a> &nbsp;•&nbsp;
 <a href="#-controls">CONTROLS</a> &nbsp;•&nbsp;
 <a href="#-team--ouroboroz-studios">TEAM</a>
@@ -18,7 +17,7 @@
 </table>
 
 <p align="center">
-  <img src="ver0.0.1/Assets/Logo/DealLogo.png" width="100%">
+  <img src="ver0.0.1/Assets/Thumbnail/DEALBanner.png" width="100%">
 </p>
 
 <p align="center">
@@ -43,7 +42,7 @@
 
 ---
 
-# 🕹 ABOUT
+# <img src="ver0.0.1/Assets/icon.png" width="30"> ABOUT
 
 **DEAL** is a cute, lightweight desktop productivity app built with **Python + Pygame** that turns your daily planning into a fun, visual, and stress-free experience. It helps you remember what you need to do, track your habits, and organize your days — all without accounts, ads, or internet nonsense.
 
@@ -51,7 +50,7 @@ Just open DEAL and start planning your life like a pro… but with vibes.
 
 ---
 
-# ✨ FEATURES
+# <img src="ver0.0.1/Assets/icon.png" width="30"> FEATURES
 
 <p align="center">
 
@@ -71,21 +70,7 @@ Mouse-based intuitive interactions.
 
 ---
 
-# 🎬 TRAILER
-
-<p align="center">
-  <a href="https://your-youtube-link.com">
-    <img src="https://your-thumbnail-link.com/trailer-thumbnail.png" width="70%">
-  </a>
-</p>
-
-<p align="center">
-  ▶ CLICK TO WATCH THE TRAILER
-</p>
-
----
-
-# 📸 PREVIEW
+# <img src="ver0.0.1/Assets/icon.png" width="30"> PREVIEW
 
 <p align="center">
   <img src="ver0.0.1/Assets/Thumbnail/Thumbnail01.png" width="70%" style="margin:12px;">
@@ -100,7 +85,7 @@ Mouse-based intuitive interactions.
 
 ---
 
-# 🎮 CONTROLS
+# <img src="ver0.0.1/Assets/icon.png" width="30"> CONTROLS
 
 ```
 ┌──────────────────────────────┐
@@ -124,7 +109,7 @@ Mouse-based intuitive interactions.
 
 ---
 
-# 👾 TEAM — OUROBOROZ STUDIOS
+# <img src="ver0.0.1/Assets/icon.png" width="30"> TEAM — OUROBOROZ STUDIOS
 
 ```
 [ Rivo Nyawan Situmorang ]  → Leader
@@ -137,7 +122,7 @@ Mouse-based intuitive interactions.
 
 ---
 
-# 🚀 VISION
+# <img src="ver0.0.1/Assets/icon.png" width="30"> VISION
 
 ```
 > Productivity
