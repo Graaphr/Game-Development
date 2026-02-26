@@ -76,8 +76,11 @@ Mouse-based intuitive interactions.
 # 📸 PREVIEW
 
 <p align="center">
-  <img src="https://your-image-link.com/screen1.png" width="45%">
-  <img src="https://your-image-link.com/screen2.png" width="45%">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail01.png" width="45%">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail02.png" width="45%">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail03.png" width="45%">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail04.png" width="45%">
+  <img src="ver0.0.1/Assets/Thumbnail/Thumbnail05.png" width="45%">
 </p>
 
 ---
