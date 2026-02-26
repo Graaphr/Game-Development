@@ -122,8 +122,8 @@ UI/UX / 2D Artist
 
 <br><br>
 
-<a href="https://instagram.com/yourusername">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/rahachi_smmry/">
+  <img src="https://img.shields.io/badge/rahachi_smmry-FFFFFF?style=flat&logo=instagram&logoColor=FF0037">
 </a>
 
 </td>
