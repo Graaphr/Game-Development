@@ -76,7 +76,7 @@ Mouse-based intuitive interactions.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=I3Gs_Lijhn0">
-    <img src="https://your-thumbnail-link.com/trailer-thumbnail.png" width="70%">
+    <img src="ver0.0.1/Thumbnail/MASKKILLYT.png" width="70%">
   </a>
 </p>
 
