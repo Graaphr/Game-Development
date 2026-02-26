@@ -14,7 +14,7 @@
 
 ---
 
-## Featured Projects
+## Projects
 
 ---
 
