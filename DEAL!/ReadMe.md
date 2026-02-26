@@ -1,6 +1,9 @@
-<p align="left">
-  <img src="ver0.0.1/Assets/icon.png" width="5%"> DEAL!
-</p>
+<div>
+  <p align="left">
+    <img src="ver0.0.1/Assets/icon.png" width="5%">
+  </p>
+  <p font-weight="200" font-size="15px">DEAL!</p>
+</div>
 
 <p align="center">
   <img src="ver0.0.1/Assets/Logo/DealLogo.png" width="100%">
